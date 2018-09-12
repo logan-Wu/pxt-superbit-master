@@ -1,0 +1,19 @@
+{
+    "name": "superbit",
+    "version": "0.2.4",
+    "description": "Extension for Kittenbot superbit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.6.2"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/superbit-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
