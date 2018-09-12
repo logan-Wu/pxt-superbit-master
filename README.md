@@ -1,6 +1,6 @@
-·# superbit
+# robotbit
 
-Extension for Kittenbot superbit
+Extension for Kittenbot Robotbit
 
 ## Feature
 
@@ -36,5 +36,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-superbit=github:Kittenbot/pxt-superbit
+robotbit=github:Kittenbot/pxt-robotbit
 ```
